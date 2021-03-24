@@ -11,20 +11,41 @@
 {"userId": 1, "id": 9, "title": "childe", "price": "5000", "url": "https://i.pinimg.com/236x/c0/ef/4b/c0ef4b1c28ddadabbe22c76c698a5cbc--japanese-design-japanese-style.jpg"},
 {"userId": 1, "id": 10, "title": "nenriki", "price": "5000", "url": "https://i.pinimg.com/236x/c0/ef/4b/c0ef4b1c28ddadabbe22c76c698a5cbc--japanese-design-japanese-style.jpg"}
 ],
-"comments": [
-{"postId": 1, "id": 1, "name": "id labore ex et quam laborum", "email": "Eliseo@gardner.biz", "body": "laudantium enim quasi"},
-{"postId": 1, "id": 2, "name": "quo vero reiciendis velit similique earum", "email": "Jayne_Kuhic@sydney.com", "body": "est natus enim"},
-{"postId": 1, "id": 3, "name": "odio adipisci rerum aut animi", "email": "Nikita@garfield.biz", "body": "quia molestiae reprehenderit"},
-{"postId": 1, "id": 4, "name": "alias odio sit", "email": "Lew@alysha.tv", "body": "non et atque\noccaecati"},
-{"postId": 1, "id": 5, "name": "vero eaque aliquid doloribus et culpa", "email": "Hayden@althea.biz","body": "harum non quasi et"},
-{"postId": 1, "id": 6, "name": "id labore ex et quam laborum", "email": "Eliseo@gardner.biz", "body": "laudantium enim quasi"},
-{"postId": 1, "id": 7, "name": "quo vero reiciendis velit similique earum", "email": "Jayne_Kuhic@sydney.com", "body": "est natus enim"},
-{"postId": 1, "id": 8, "name": "odio adipisci rerum aut animi", "email": "Nikita@garfield.biz", "body": "quia molestiae reprehenderit"},
-{"postId": 1, "id": 9, "name": "alias odio sit", "email": "Lew@alysha.tv", "body": "non et atque\noccaecati"},
-{"postId": 1, "id": 10, "name": "vero eaque aliquid doloribus et culpa", "email": "Hayden@althea.biz","body": "harum non quasi et"}
+"rings": [
+{"postId": 1, "id": 1, "title": "lilia", "price": "1000", "url": "https://sc04.alicdn.com/kf/H143694d45b89437d9394186d46acbb94w.jpg"},
+{"postId": 1, "id": 2, "title": "kaeye", "price": "1000", "url": "https://sc04.alicdn.com/kf/H143694d45b89437d9394186d46acbb94w.jpg"},
+{"postId": 1, "id": 3, "title": "lisa", "price": "2000", "url": "https://sc04.alicdn.com/kf/H143694d45b89437d9394186d46acbb94w.jpg"},
+{"postId": 1, "id": 4, "title": "amber", "price": "2000", "url": "https://sc04.alicdn.com/kf/H143694d45b89437d9394186d46acbb94w.jpg"},
+{"postId": 1, "id": 5, "title": "xinyan", "price": "3000", "url": "https://sc04.alicdn.com/kf/H143694d45b89437d9394186d46acbb94w.jpg"},
+{"postId": 1, "id": 6, "title": "chongyun", "price": "3000", "url": "https://sc04.alicdn.com/kf/H143694d45b89437d9394186d46acbb94w.jpg"},
+{"postId": 1, "id": 7, "title": "beidou", "price": "4000", "url": "https://sc04.alicdn.com/kf/H143694d45b89437d9394186d46acbb94w.jpg"},
+{"postId": 1, "id": 8, "title": "albedo", "price": "4000", "url": "https://sc04.alicdn.com/kf/H143694d45b89437d9394186d46acbb94w.jpg"},
+{"postId": 1, "id": 9, "title": "childe", "price": "5000", "url": "https://sc04.alicdn.com/kf/H143694d45b89437d9394186d46acbb94w.jpg"},
+{"postId": 1, "id": 10, "title": "nenriki", "price": "5000", "url": "https://sc04.alicdn.com/kf/H143694d45b89437d9394186d46acbb94w.jpg"}
 ],
-"profile": {
-"name": "Profile1"
-}
+"necklaces": [
+{"postId": 1, "id": 1, "title": "lilia", "price": "1000", "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMZjnb6MzbtGuBFTHFfOefOttnahJsNtbNyQ&usqp=CAU"},
+{"postId": 1, "id": 2, "title": "kaeye", "price": "1000", "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMZjnb6MzbtGuBFTHFfOefOttnahJsNtbNyQ&usqp=CAU"},
+{"postId": 1, "id": 3, "title": "lisa", "price": "2000", "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMZjnb6MzbtGuBFTHFfOefOttnahJsNtbNyQ&usqp=CAU"},
+{"postId": 1, "id": 4, "title": "amber", "price": "2000", "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMZjnb6MzbtGuBFTHFfOefOttnahJsNtbNyQ&usqp=CAU"},
+{"postId": 1, "id": 5, "title": "xinyan", "price": "3000", "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMZjnb6MzbtGuBFTHFfOefOttnahJsNtbNyQ&usqp=CAU"},
+{"postId": 1, "id": 6, "title": "chongyun", "price": "3000", "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMZjnb6MzbtGuBFTHFfOefOttnahJsNtbNyQ&usqp=CAU"},
+{"postId": 1, "id": 7, "title": "beidou", "price": "4000", "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMZjnb6MzbtGuBFTHFfOefOttnahJsNtbNyQ&usqp=CAU"},
+{"postId": 1, "id": 8, "title": "albedo", "price": "4000", "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMZjnb6MzbtGuBFTHFfOefOttnahJsNtbNyQ&usqp=CAU"},
+{"postId": 1, "id": 9, "title": "childe", "price": "5000", "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMZjnb6MzbtGuBFTHFfOefOttnahJsNtbNyQ&usqp=CAU"},
+{"postId": 1, "id": 10, "title": "nenriki", "price": "5000", "url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRMZjnb6MzbtGuBFTHFfOefOttnahJsNtbNyQ&usqp=CAU"}
+],
+"earrings": [
+{"postId": 1, "id": 1, "title": "lilia", "price": "1000", "url": "http://cdn.shopify.com/s/files/1/1057/3176/products/small_simple_circle_stud_earrings_minimalist_1_1200x1200.jpg?v=1594506623"},
+{"postId": 1, "id": 2, "title": "kaeye", "price": "1000", "url": "http://cdn.shopify.com/s/files/1/1057/3176/products/small_simple_circle_stud_earrings_minimalist_1_1200x1200.jpg?v=1594506623"},
+{"postId": 1, "id": 3, "title": "lisa", "price": "2000", "url": "http://cdn.shopify.com/s/files/1/1057/3176/products/small_simple_circle_stud_earrings_minimalist_1_1200x1200.jpg?v=1594506623"},
+{"postId": 1, "id": 4, "title": "amber", "price": "2000", "url": "http://cdn.shopify.com/s/files/1/1057/3176/products/small_simple_circle_stud_earrings_minimalist_1_1200x1200.jpg?v=1594506623"},
+{"postId": 1, "id": 5, "title": "xinyan", "price": "3000", "url": "http://cdn.shopify.com/s/files/1/1057/3176/products/small_simple_circle_stud_earrings_minimalist_1_1200x1200.jpg?v=1594506623"},
+{"postId": 1, "id": 6, "title": "chongyun", "price": "3000", "url": "http://cdn.shopify.com/s/files/1/1057/3176/products/small_simple_circle_stud_earrings_minimalist_1_1200x1200.jpg?v=1594506623"},
+{"postId": 1, "id": 7, "title": "beidou", "price": "4000", "url": "http://cdn.shopify.com/s/files/1/1057/3176/products/small_simple_circle_stud_earrings_minimalist_1_1200x1200.jpg?v=1594506623"},
+{"postId": 1, "id": 8, "title": "albedo", "price": "4000", "url": "http://cdn.shopify.com/s/files/1/1057/3176/products/small_simple_circle_stud_earrings_minimalist_1_1200x1200.jpg?v=1594506623"},
+{"postId": 1, "id": 9, "title": "childe", "price": "5000", "url": "http://cdn.shopify.com/s/files/1/1057/3176/products/small_simple_circle_stud_earrings_minimalist_1_1200x1200.jpg?v=1594506623"},
+{"postId": 1, "id": 10, "title": "nenriki", "price": "5000", "url": "http://cdn.shopify.com/s/files/1/1057/3176/products/small_simple_circle_stud_earrings_minimalist_1_1200x1200.jpg?v=1594506623"}
+]
 }
 
